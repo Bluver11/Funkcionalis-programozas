@@ -32,6 +32,15 @@ a2.forEach((a)=>{
 
 }
 
+
+
+function Hossz(){
+  let a3 = Array.from(array.quotes);
+  
+
+
+
+}
 function init(){
   const osszesGomb =document.getElementById('osszes');
   osszesGomb.addEventListener('click',osszes);
